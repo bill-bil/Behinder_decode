@@ -6,5 +6,5 @@ Behinder_decode
 └── resource
     ├── dictory
     │   └── top500.txt				密码字典
-    └── pcap						behinder pcap 数据包
+    └── pcap					behinder pcap 数据包
 ```
